@@ -33,10 +33,10 @@ public class TC003_LoginDDT extends BaseClass {
 		MyAccountPage macc=new MyAccountPage(driver);
 		boolean targetpage=macc.isMyAccountExist();
 		
-		/*if Date is valid & login successful--> Test Passed
-		 * if Date is valid & login unsuccessful--> Test failed
-		 * if Date is invalid & login successful--> Test failed
-		 * if Date is invalid & login unsuccessful--> Test Passed
+		/*if Data is valid & login successful--> Test Passed
+		 * if Data is valid & login unsuccessful--> Test failed
+		 * if Data is invalid & login successful--> Test failed
+		 * if Data is invalid & login unsuccessful--> Test Passed
 		*/
 		
 		if(exp.equalsIgnoreCase("Valid")) {

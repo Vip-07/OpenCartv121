@@ -1,0 +1,8 @@
+00:38:44.883 [main] INFO  testCases.TC001_AccountRegistrationTest - *** TC001 AcoountRegistrationTest is Started***
+00:38:45.551 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link..
+00:38:46.178 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Registration link..
+00:38:46.191 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling in customer details..
+00:38:48.127 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation..
+00:38:48.182 [main] INFO  testCases.TC001_AccountRegistrationTest - ***TC001 AccountRegistrationTest is Finished***
+00:38:57.794 [main] INFO  testCases.TC002_LoginTest - ***TC002_LoginTest Started***
+00:38:59.756 [main] INFO  testCases.TC002_LoginTest - ***TC002_LoginTest Finished***
